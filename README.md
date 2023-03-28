@@ -1,5 +1,11 @@
 ![Logo do Git](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
 
+[Bem Vindo](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#modulos)
+[Bem Vindo](#bem-vindo-ao-curso-git-e-github) |
+[Rede Social](#rede-social) | 
+[Comandos](#comando-para-rodar-o-projeto)  
+
 # Bem Vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **gitHub** _do zero ao profissional._
 
@@ -32,7 +38,7 @@ Nesse curso você vai dominar todo **git** e **gitHub** _do zero ao profissional
 >Segunda area destacada
 
 
-###Comando para rodar o projeto:
+### Comando para rodar o projeto:
 ```
 npm start
 ```
