@@ -3,6 +3,11 @@
 # Bem Vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **gitHub** _do zero ao profissional._
 
+**Ultimas updates:**
+-[X] Site Responsivo.
+-[ ] Login com Facebook.
+-[ ] Pagina sobre a empresa.
+
 
 ## Módulos:
 * Entendendo o que é **Git**;
@@ -38,3 +43,4 @@ function showName(nome){
     return 'Bem vindo: '+nome;
 }
 ```
+
